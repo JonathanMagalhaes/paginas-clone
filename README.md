@@ -15,6 +15,8 @@
   </a> 
   <a href="https://www.w3schools.com/Css/">
     <img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Fcss-118-569410.png&f=1&nofb=1" width = "65px" alt="CSS" target="_blank" rel="noreferrer"></a>
+  <a href="https://getbootstrap.com.br/">
+    <img align="center" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" width = "65px" alt="Bootstrap" target="_blank" rel="noreferrer"></a>
 </p>
 </h3>
 
